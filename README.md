@@ -7,14 +7,3 @@ creation, combination, and modification of these rules.
 A real-time data processing system to monitor weather conditions and provide
 summarized insights using rollups and aggregates. The system will utilize data from the
 OpenWeatherMap API
-
-
-## Instruction
-### Clone the github repository
-    git clone https://github.com/MuditAggarwal1/zeotap-assignment.git 
-### For assignment 1
-    cd zeotap-assignment/APPLICATION1
-### For assignment 2
-    cd zeotap-assignment/APPLICATION2
-
-Each of the above assignments includes a dedicated readme file with instructions to build and run the project.
